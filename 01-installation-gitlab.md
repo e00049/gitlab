@@ -1,6 +1,6 @@
 # Step 01: Update system & install dependencies
 
-sudo apt upgrade -y
+sudo apt upgrade -y;
 sudo apt install -y ca-certificates curl openssh-server tzdata
 
 # Step 02: Add the GitLab CE Repository
