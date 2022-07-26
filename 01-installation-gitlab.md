@@ -13,7 +13,7 @@ sudo cat /etc/apt/sources.list.d/gitlab_gitlab-ce.list
 
 # Step 04: Install GitLab CE on Ubuntu 18.04
 
-sudo apt update
+sudo apt update;
 sudo apt install gitlab-ce -y
 
 # step 05: Edit the GitLab configuration file to set hostname and other parameters:
